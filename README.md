@@ -1,15 +1,5 @@
 # Panel
 
-The web administration interface for PapilioVPN.
+The web interface for managing and monitoring the PapilioVPN platform.
 
-## Scope
-
-Provides the management interface and communicates with Core-API.
-
-## Technology
-
-Vue and Quasar
-
-## Status
-
-Initial project placeholder. Implementation and setup instructions will be added as the project develops.
+**Status: Under development.**
